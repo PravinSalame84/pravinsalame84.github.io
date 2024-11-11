@@ -5,6 +5,13 @@
   box-sizing: border-box;
 }
 
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
